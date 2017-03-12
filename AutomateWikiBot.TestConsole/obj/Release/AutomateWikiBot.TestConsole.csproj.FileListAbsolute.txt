@@ -1,0 +1,2 @@
+C:\Users\tgo\Documents\Visual Studio 2015\Projects\WikiBotWebhook\AutomateWikiBot.TestConsole\bin\Release\AutomateWikiBot.TestConsole.exe.config
+C:\DEV\GitHub\Publish\WikiBotWebhook\AutomateWikiBot.TestConsole\bin\Release\AutomateWikiBot.TestConsole.exe.config

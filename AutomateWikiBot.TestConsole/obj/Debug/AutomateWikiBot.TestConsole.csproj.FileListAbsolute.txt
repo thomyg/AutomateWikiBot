@@ -1,0 +1,17 @@
+C:\Users\tgo\Documents\Visual Studio 2015\Projects\WikiBotWebhook\AutomateWikiBot.TestConsole\bin\Debug\AutomateWikiBot.TestConsole.exe.config
+C:\Users\tgo\Documents\Visual Studio 2015\Projects\WikiBotWebhook\AutomateWikiBot.TestConsole\bin\Debug\AutomateWikiBot.TestConsole.exe
+C:\Users\tgo\Documents\Visual Studio 2015\Projects\WikiBotWebhook\AutomateWikiBot.TestConsole\bin\Debug\AutomateWikiBot.TestConsole.pdb
+C:\Users\tgo\Documents\Visual Studio 2015\Projects\WikiBotWebhook\AutomateWikiBot.TestConsole\bin\Debug\AutomateWikiBot.Utils.dll
+C:\Users\tgo\Documents\Visual Studio 2015\Projects\WikiBotWebhook\AutomateWikiBot.TestConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tgo\Documents\Visual Studio 2015\Projects\WikiBotWebhook\AutomateWikiBot.TestConsole\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\tgo\Documents\Visual Studio 2015\Projects\WikiBotWebhook\AutomateWikiBot.TestConsole\bin\Debug\SharePointPnP.IdentityModel.Extensions.dll
+C:\Users\tgo\Documents\Visual Studio 2015\Projects\WikiBotWebhook\AutomateWikiBot.TestConsole\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\tgo\Documents\Visual Studio 2015\Projects\WikiBotWebhook\AutomateWikiBot.TestConsole\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\tgo\Documents\Visual Studio 2015\Projects\WikiBotWebhook\AutomateWikiBot.TestConsole\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tgo\Documents\Visual Studio 2015\Projects\WikiBotWebhook\AutomateWikiBot.TestConsole\bin\Debug\AutomateWikiBot.Utils.pdb
+C:\Users\tgo\Documents\Visual Studio 2015\Projects\WikiBotWebhook\AutomateWikiBot.TestConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tgo\Documents\Visual Studio 2015\Projects\WikiBotWebhook\AutomateWikiBot.TestConsole\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\tgo\Documents\Visual Studio 2015\Projects\WikiBotWebhook\AutomateWikiBot.TestConsole\bin\Debug\HtmlAgilityPack.xml
+C:\Users\tgo\Documents\Visual Studio 2015\Projects\WikiBotWebhook\AutomateWikiBot.TestConsole\obj\Debug\AutomateWikiBot.TestConsole.csprojResolveAssemblyReference.cache
+C:\Users\tgo\Documents\Visual Studio 2015\Projects\WikiBotWebhook\AutomateWikiBot.TestConsole\obj\Debug\AutomateWikiBot.TestConsole.exe
+C:\Users\tgo\Documents\Visual Studio 2015\Projects\WikiBotWebhook\AutomateWikiBot.TestConsole\obj\Debug\AutomateWikiBot.TestConsole.pdb

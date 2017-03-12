@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{33AD0EE8-D99B-4E14-8CD9-3F56ABEF97A2}") = "AutomateWikiBot.Webhook", "WikiBotWebhook\AutomateWikiBot.Webhook.funproj", "{1E2EBFE2-99C9-4312-9DBE-742B5DB3896F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomateWikiBot.WebJob", "WikiBotWebJob\AutomateWikiBot.WebJob.csproj", "{00A698CC-9435-44BF-8D75-34BE8CC04297}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomateWikiBot.Utils", "AutomateWikiBot.Utils\AutomateWikiBot.Utils.csproj", "{863D3A88-363E-4455-A21E-83568FB90FE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomateWikiBot.TestConsole", "AutomateWikiBot.TestConsole\AutomateWikiBot.TestConsole.csproj", "{7FDC920B-7681-40CD-B62F-1AD4C9C44C1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E2EBFE2-99C9-4312-9DBE-742B5DB3896F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2EBFE2-99C9-4312-9DBE-742B5DB3896F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2EBFE2-99C9-4312-9DBE-742B5DB3896F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2EBFE2-99C9-4312-9DBE-742B5DB3896F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00A698CC-9435-44BF-8D75-34BE8CC04297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A698CC-9435-44BF-8D75-34BE8CC04297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A698CC-9435-44BF-8D75-34BE8CC04297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A698CC-9435-44BF-8D75-34BE8CC04297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863D3A88-363E-4455-A21E-83568FB90FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863D3A88-363E-4455-A21E-83568FB90FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863D3A88-363E-4455-A21E-83568FB90FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863D3A88-363E-4455-A21E-83568FB90FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FDC920B-7681-40CD-B62F-1AD4C9C44C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FDC920B-7681-40CD-B62F-1AD4C9C44C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FDC920B-7681-40CD-B62F-1AD4C9C44C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FDC920B-7681-40CD-B62F-1AD4C9C44C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
